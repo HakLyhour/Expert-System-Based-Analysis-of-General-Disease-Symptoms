@@ -1,0 +1,30 @@
+{
+  "Fever": {
+    "recommendations": [
+      "Your disease is not severe so we recommend you to rest, stay hydrated, and take over-the-counter medication as needed.",
+      "Your disease is somewhat major. Additional advice from a professional would assist with a quicker treatment.",
+      "Your disease is extreme. Your symptoms may require medical evaluation. Schedule an appointment with your doctor. If your symptoms get worse, see a doctor immediately."
+    ]
+  },
+  "Headache": {
+    "recommendations": [
+      "Mild headaches can often be relieved with rest and hydration.",
+      "If headaches persist or worsen, consider consulting a specialist.",
+      "Severe or sudden headaches require immediate medical attention."
+    ]
+  },
+  "Cough": {
+    "recommendations": [
+      "A mild cough often resolves on its own; keep your throat moist and rest.",
+      "If your cough lingers more than a week, see a healthcare professional.",
+      "A persistent, severe cough may indicate an infection—seek medical evaluation."
+    ]
+  },
+  "Default": {
+    "recommendations": [
+      "We don’t have specific advice for this condition.",
+      "If in doubt, please consult a healthcare professional.",
+      "If your symptoms worsen, seek medical help immediately."
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+[
+  { "id": 1, "label": "Hello Pikunus AI", "date": "April 2023", "details": "This is a sample description for Hello Pikunus AI." },
+  { "id": 2, "label": "I have a headache. How do I fix it?", "date": "March 2023", "details": "Drink water, rest, and see a doctor if severe." },
+  { "id": 3, "label": "How to prevent COVID-19?", "date": "2024", "details": "Wash hands, wear masks, stay safe." },
+  { "id": 4, "label": "Best diet for high blood pressure?", "date": "May 2024", "details": "Eat more vegetables, less salt, and avoid processed food." },
+  { "id": 5, "label": "What are symptoms of dengue?", "date": "June 2024", "details": "High fever, headache, joint pain, and rash." }
+]

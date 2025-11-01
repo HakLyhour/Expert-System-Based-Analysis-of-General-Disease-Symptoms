@@ -1,0 +1,6 @@
+[
+  { "fever": 1, "cough": 1, "headache": 1, "runny_nose": 0, "sore_throat": 1, "disease": "Flu" },
+  { "fever": 1, "cough": 0, "headache": 1, "runny_nose": 0, "sore_throat": 0, "disease": "Malaria" },
+  { "fever": 0, "cough": 1, "headache": 0, "runny_nose": 1, "sore_throat": 1, "disease": "Cold" },
+  { "fever": 1, "cough": 1, "headache": 1, "runny_nose": 1, "sore_throat": 0, "disease": "COVID-19" }
+]

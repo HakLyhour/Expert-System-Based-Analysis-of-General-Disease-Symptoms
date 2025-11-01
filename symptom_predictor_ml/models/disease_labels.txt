@@ -1,0 +1,107 @@
+Acne Vulgaris
+Acute Kidney Injury
+Addison's Disease
+Allergic Rhinitis
+Alzheimer's Disease
+Anemia
+Angina
+Ankylosing Spondylitis
+Aortic Aneurysm
+Appendicitis
+Arrhythmia
+Arthritis
+Asthma
+Bladder Cancer
+Breast Cancer
+Bronchiolitis
+Bronchitis
+COVID 19
+Cardiomyopathy
+Celiac Disease
+Cellulitis
+Cervical Cancer
+Chronic Kidney Disease
+Chronic Obstructive Pulmonary Disease
+Chronic Sinusitis
+Cirrhosis
+Colon Cancer
+Coronary Artery Disease
+Crohn's Disease
+Cushing's Syndrome
+Deep Vein Thrombosis
+Diabetes Mellitus
+Diverticulitis
+Eczema
+Emphysema
+Endometriosis
+Epilepsy
+Erectile Dysfunction
+Esophageal Cancer
+Fibromyalgia
+Gallstones
+Gastritis
+Gastroenteritis
+Gastroesophageal Reflux Disease
+Glomerulonephritis
+Gout
+Guillain-Barré Syndrome
+HIV/AIDS
+Hashimoto's Thyroiditis
+Heart Attack
+Hemophilia
+Hepatitis B
+Hives (Urticaria)
+Hydronephrosis
+Hypertension
+Hyperthyroidism
+Hypothyroidism
+Infertility (Female)
+Influenza
+Interstitial Cystitis
+Irritable Bowel Syndrome
+Kidney Stones
+Leukemia
+Liver Cancer
+Lung Cancer
+Lupus
+Malaria
+Meningitis
+Migraine
+Multiple Sclerosis
+Multiple System Atrophy
+Muscular Dystrophy
+Myasthenia Gravis
+Nephrotic Syndrome
+Osteoporosis
+Ovarian Cyst
+Pancreatitis
+Parkinson's Disease
+Pelvic Inflammatory Disease
+Peptic Ulcer
+Peripheral Artery Disease
+Pneumonia
+Polycystic Ovary Syndrome
+Polymyositis
+Prostate Enlargement
+Psoriasis
+Psoriatic Arthritis
+Pulmonary Fibrosis
+Pyelonephritis
+Rheumatoid Arthritis
+Rickets
+Rosacea
+Scoliosis
+Sickle Cell Disease
+Sjögren's Syndrome
+Skin Abscess
+Skin Cancer (Melanoma)
+Stroke
+Testicular Cancer
+Tetanus
+Thalassemia
+Tuberculosis
+Urinary Tract Infection
+Varicose Veins
+Vitiligo
+Whooping Cough
+aaaa
